@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\bin\Debug\Primenum.exe.config
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\bin\Debug\Primenum.exe
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\bin\Debug\Primenum.pdb
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\obj\Debug\Primenum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\obj\Debug\Primenum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\obj\Debug\Primenum.exe
+C:\Users\Admin\Documents\GitHub\Primenum\Primenum\obj\Debug\Primenum.pdb
