@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\obj\Debug\BUOI3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\obj\Debug\BUOI3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\bin\Debug\BUOI3.exe.config
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\bin\Debug\BUOI3.exe
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\bin\Debug\BUOI3.pdb
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\obj\Debug\BUOI3.exe
+C:\Users\Admin\Documents\GitHub\BUOI3\BUOI3\obj\Debug\BUOI3.pdb
