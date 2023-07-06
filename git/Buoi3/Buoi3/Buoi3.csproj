@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F3D92CB-E1CD-4261-BBCA-638582908B9F}</ProjectGuid>
+    <ProjectGuid>{4909B20A-DBBA-4B5E-B2F6-652E93D6F72A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Buoi3</RootNamespace>
-    <AssemblyName>Buoi3</AssemblyName>
+    <RootNamespace>BUOI3</RootNamespace>
+    <AssemblyName>BUOI3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
