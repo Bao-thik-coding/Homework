@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\GitHub\Mang\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Mang\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache

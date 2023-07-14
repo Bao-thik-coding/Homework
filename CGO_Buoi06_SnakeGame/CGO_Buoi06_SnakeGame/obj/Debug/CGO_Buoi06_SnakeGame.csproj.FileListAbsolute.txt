@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe.config
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.pdb
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.exe
+C:\Users\Admin\Documents\GitHub\CGO_Buoi06_SnakeGame\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.pdb
